@@ -1,0 +1,19 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [160] using StatReload
+INFO:     Started server process [162]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:47140 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47130 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47140 - "GET /api/catalog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47140 - "GET /api/catalog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53050 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53064 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53070 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:53064 - "GET /api/catalog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53064 - "GET /api/catalog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41700 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:41704 - "POST /api/printify/sync HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:41700 - "GET /api/catalog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41700 - "GET /api/catalog HTTP/1.1" 200 OK
